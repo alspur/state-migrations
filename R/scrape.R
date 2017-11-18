@@ -1,11 +1,11 @@
 # scrape.R
+# 2017-11-18
 
 # load ----------
 
 # load packages
 library(tidyverse)
 library(rvest)
-
 
 # scrape --------
 
